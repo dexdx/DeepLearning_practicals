@@ -1,4 +1,5 @@
 # Deep Learning Course (EE-559)
+[course link](https://edu.epfl.ch/coursebook/en/deep-learning-EE-559)
 ## Summary
 The objective of this course is to provide a complete introduction to deep machine learning. How to design a neural network, how to train it, and what are the modern techniques that specifically handle very large networks.
 
