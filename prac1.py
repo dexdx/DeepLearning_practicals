@@ -1,7 +1,6 @@
 import torch
 import time
 
-"""
 # 1. Multiple views of a storage
 print("1. Multiple views of a storage")
 m = torch.full((13,13),1)
@@ -32,7 +31,7 @@ t = time.perf_counter() - t
 print('\n3. Flops per second')
 print('time:',t,'seconds')
 print(5000**3/t, 'floating point products per second')
-"""
+
 
 # 4. Playing with strides
 def mul_row(m):
